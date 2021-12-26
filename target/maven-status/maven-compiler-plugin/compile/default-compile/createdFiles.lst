@@ -1,0 +1,10 @@
+restAPI\GetRequestWithParam.class
+RestAssured_Maven\RestAssured_Maven\App.class
+restAPI\PostRequest.class
+restAPI\DeleteRequest.class
+restAPI\PostCallWithJSONFile.class
+restAPI\PostRequestWithJSONObject.class
+RestAPIChaining\EndToEndTest.class
+restAPI\GetRequest.class
+restAPI\PutRequest.class
+restAPI\PostRequestWithMap.class
